@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "employeeId": "1",
+    "date": "2024-05-30",
+    "amount": 3480,
+    "status": "processed"
+  },
+  {
+    "id": "2",
+    "employeeId": "2",
+    "date": "2024-05-30",
+    "amount": 3610,
+    "status": "processed"
+  }
+]

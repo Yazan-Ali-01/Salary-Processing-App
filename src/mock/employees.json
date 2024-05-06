@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "staffId": "E1001",
+    "name": "Alice Johnson",
+    "joiningDate": "2015-01-15",
+    "basicSalary": 3100,
+    "salaryAllowances": 330
+  },
+  {
+    "id": "2",
+    "staffId": "E1002",
+    "name": "Bob Smith",
+    "joiningDate": "2016-02-20",
+    "basicSalary": 3200,
+    "salaryAllowances": 360
+  }
+]

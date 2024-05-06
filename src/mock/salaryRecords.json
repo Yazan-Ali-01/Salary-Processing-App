@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "employeeId": "1",
+    "month": 5,
+    "year": 2024,
+    "additions": 100,
+    "deductions": 50,
+    "endOfService": false
+  },
+  {
+    "id": "2",
+    "employeeId": "2",
+    "month": 5,
+    "year": 2024,
+    "additions": 100,
+    "deductions": 50,
+    "endOfService": false
+  },
+  {
+    "id": "2",
+    "employeeId": "2",
+    "month": 6,
+    "year": 2024,
+    "additions": 100,
+    "deductions": 50,
+    "endOfService": false
+  }
+]
